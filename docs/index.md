@@ -11,7 +11,7 @@ hero:
       link: /projects
     - theme: alt
       text: Github
-      link: https://github.com/maevanorris
+      link: https://github.com/emnq
   image:
     src: /maeva.png
     alt: Me
