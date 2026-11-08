@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Maeva Norris",
+  title: "Maeva Norris (@emnq)",
   description: "My cool website 😺",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -22,7 +22,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/maevanorris' }
+      { icon: 'github', link: 'https://github.com/emnq' }
     ]
   }
 })
